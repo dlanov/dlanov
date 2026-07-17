@@ -47,14 +47,6 @@ building software that runs at the edge, in the cloud, and everywhere in between
 | [**ROS 2**](https://github.com/ros2) | Robot Operating System — next-gen robotics middleware |
 | [**SONiC**](https://github.com/sonic-net/sonic-buildimage) | Software for Open Networking in the Cloud |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlanov&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanov&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
